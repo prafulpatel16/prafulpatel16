@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praful Patel
 - 👀 I’m interested in Cloud & DevOps emerging technologies.
-- 🌱 I’m currently learning Linux, Python Scripting, Cloud, DevOps tools, Containers etc..
+- 🌱 I’m currently learning and working into Technologies like Linux, Python Scripting, AWS, Azure, GCP, OCI Cloud, DevOps tools, Containers etc..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
