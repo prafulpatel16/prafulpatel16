@@ -4,7 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+ About Me:
+🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India 
+📝 I regulary write technical articles for hashnode and dev.to
+💻 I use daily .js, .java, .py, .sql
+📖 I am currently reading Designing Data Intensive Application by Martin Kleppmann
+💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+👯 We can connect to play some games of Chess ♟
+⚡ Fun fact: Je connais un peu le français
+🧑‍💻 Tech I work on :
                                                       
 
 
