@@ -26,3 +26,60 @@ You can click the Preview link to take a look at your changes.
 
 	azure app – managed wiki deployment using azure app service (docker-based) and azure postgresql
 https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca
+	azure ad connect cloud sync - azure ad connect cloud sync integration with on-premises active directory
+https://medium.com/@prafulpatel16/azure-ad-connect-cloud-sync-azure-ad-connect-cloud-sync-integration-with-on-premises-active-d969ab84d398
+	azure - on-premises azure ad integration with microsoft azure ad using azure ad connect
+(hybrid indentity mangement)
+https://medium.com/@prafulpatel16/azure-project-1-azure-ad-integration-with-microsfot-azure-ad-using-azure-ad-connect-d63ce003a803
+	azure devops - serverless website deployment 100% automation using az devops repos & pipelines ci/cd in multiple environments
+https://drive.google.com/file/d/1FFv6lc1I6pfY-hGwjFZF3y2mFmMbObzW/view
+	multicloud federation - azure and oci single sign-on authenticatios(single sign-on authentication)
+https://medium.com/@prafulpatel16/project-title-azure-project-2-a7af5a730bfc
+	aws - highly available web portfolio application deployment, monitoring & notification with aws chatbot – slack & amazon chime integration
+https://drive.google.com/file/d/1RzwsjKQ4QFtfsbVPKvgEeI3qBY19f73t/view
+	aws - ebs root volume disaster recovery, monitoring & notification
+https://medium.com/@prafulpatel16/%C3%B8-aws-challenge-project-74d11f5b1ddd
+	aws – iam on-premises users migration to aws
+https://drive.google.com/file/d/1WCyHfu67pPabsZxZs33askrTkvW91TNt/view
+aws - iam users & groups creation & destroy using ansible 100% automation
+	https://medium.com/@prafulpatel16/aws-ansible-automation-project-challenge-aws-iam-users-group-creation-destroy-using-ansible-46da85963a3
+	aws - deployment of scalable application
+https://drive.google.com/file/d/1BRpy3KUuCyPMXY7FsCAugcf1Po7NcGX9/view
+	aws - on-premises to aws migration
+https://drive.google.com/file/d/1tCAYTFOsJ3TrpV-Qoq1daY5JjfWZqAMz/view
+	azure - home office solution during covid-19 pandemic with microsoft azure vpn gateway https://drive.google.com/file/d/1syr1Qbj_ZqarLqg3dLIC2fH3ofB5HFYc/view
+	azure firewall – deploy and configure azure firewall based on application rules (fqdn)
+https://drive.google.com/file/d/1aJtcpNHk7o8NmyHcG-eJAUqibEVXEiyn/view?usp=sharing
+	gcp - deployment of a private communication in a multicloud environment(aws & gcp)100% automated using terraform https://drive.google.com/file/d/1pCFQqHT21UfTiWEcz5VK6pxsFhgdduC6/view
+	gcp - app modernization - migrate legacy app to gcp gke
+https://drive.google.com/file/d/1DG-gtgKE1BvdJbtPzOk8DDkSLWT2DFcb/view
+	gcp - intercontinental web app (vm migration) using storage snapshot
+https://drive.google.com/file/d/1CKlnVEEZmH9utsu2TvB3t_lMD-VpTJF2/view
+	k8s project - 1 containerized and deploy a professional portfolio web application to gke using ha-cloud sql
+https://drive.google.com/file/d/1wFRktfqYFru5dgbUaRLV1tOVqPVXQN2n/view
+	gcp - serverless web application load balancing speed up using cloud cdn
+https://drive.google.com/file/d/1ViiF95otUz217C19M4-161_pt5Hlm15N/view
+	gcp challenge - virtual machines patching through automation
+https://drive.google.com/file/d/1P7nQyVGB4SVY55QJ1RdipOiNOZ4jmwGL/view
+	gcp- highly available web app deployment using load balancer
+https://drive.google.com/file/d/1n4qZD-9K6PwZWLgUYT69Wmsg736w790U/view
+	gcp- migration of a stand-alone application and database from gce (vm) to a ‘modern architecture’ using gke (app)+ cloud sql (db)with ha https://drive.google.com/file/d/1qgw2kz-6wxpzxt9ubcjt4ell7kc_v5mt/view
+	oci - automation iam user creation using ansible
+https://drive.google.com/file/d/1Wa38GfQH_vijOzN_7o7K55f-ttJwVwD7/view?usp=share_link
+	oci – deployment of highly available web application using load balancer 
+https://drive.google.com/file/d/1DxWXgiZhm1VYSlhL8jPIMv2sGHIl9ypD/view?usp=share_link
+	oci – deployment of vcn with subnet access control  
+https://drive.google.com/file/d/1nPIpLgIX1tUI7hHpnaIhhw7SLpFxafza/view?usp=share_link
+	oci – deployment of compute resources and load balancer using IAC + pipeline  
+https://drive.google.com/file/d/1wnGEm378plG8Oxe21EeLXjJP_Vp0TVEU/view?usp=share_link
+https://drive.google.com/file/d/1U7M-d9-Cv3RXrkWmLvEe5Lk5mb3AlTe1/view?usp=share_link
+	oci – web app deployment inside object storage using python sdk
+https://drive.google.com/file/d/1LZVH4Lf7Zu8Z6KuVIPNlgt3vnogrQvyO/view?usp=share_link
+	oci – db deployment & db sms integration inside cloud
+https://drive.google.com/file/d/1iz0TTmyQcr-yR_ejLHTc0JDT5rFfhUR7/view?usp=share_link
+https://drive.google.com/file/d/1L_mT9ymLmKAbTvtLVFmqEXzlnFftHC65/view?usp=share_link
+	oci – migration & modernization application to serverless container
+https://drive.google.com/file/d/1fAJs4HGbdLtt0jqvl5dYYvPkvtRzDDpi/view?usp=share_link
+
+
+
