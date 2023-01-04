@@ -17,3 +17,4 @@ https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-
   
   [![prafuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=prafulpatel16&show_icons=true&theme=radical)](https://github.com/prafulpatel16/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulpatel16)](https://github.com/prafulpatel16/github-readme-stats)
