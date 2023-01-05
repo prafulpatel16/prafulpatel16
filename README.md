@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 About Me:
-## 🏦 I'm a Sr.Cloud Engineer 
+##  I'm a Cloud Engineer 
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/prafulpatel16/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="praful |LinkedIn" width="21px"/></a>
