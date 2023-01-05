@@ -6,26 +6,16 @@
  About Me:
 🏦 I'm a Cloud Engineer
 
-- 📫 How to reach me ...
-(https://linkedin.com/in/prafulpatel16)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ln" width="45" height="45" />
-
 ### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/prafulpatel16/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="praful |LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@prafulpatel16/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://youtube.com/@prafulpatel16/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
-<a href="(https://linkedin.com/in/prafulpatel16/"><img align="left" src="https://raw.githubusercontent.com/prafulpatel16/prafulpatel16/main/images/linkedin.svg" alt="prafulpatel16 | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
-<h2> 🚀 &nbsp; How to reach me</h2>
-
-[Linkedin](https://linkedin.com/in/prafulpatel16/)
-[GitHUB](https://github.com/prafulpatel16)
-[Medium](https://medium.com/@prafulpatel16)
-[Youtube](https://youtube.com/@prafulpatel16)
-
-                                                     
+                                                    
   
 <!---
 prafulpatel16/prafulpatel16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -100,67 +90,51 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulpatel16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 📝My Cloud Projects Portfolio
+
  
- 	azure app – managed wiki deployment using azure app service (docker-based) and azure postgresql \
-  Click here to visit project link [Click here for Project](https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca)
+ ## 📝 Praful's Cloud Project Portfolio
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
 
-	azure app – managed wiki deployment using azure app service (docker-based) and azure postgresql
-https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca
-	azure ad connect cloud sync - azure ad connect cloud sync integration with on-premises active directory
-https://medium.com/@prafulpatel16/azure-ad-connect-cloud-sync-azure-ad-connect-cloud-sync-integration-with-on-premises-active-d969ab84d398
-	azure - on-premises azure ad integration with microsoft azure ad using azure ad connect
-(hybrid indentity mangement)
-https://medium.com/@prafulpatel16/azure-project-1-azure-ad-integration-with-microsfot-azure-ad-using-azure-ad-connect-d63ce003a803
-	azure devops - serverless website deployment 100% automation using az devops repos & pipelines ci/cd in multiple environments
-https://drive.google.com/file/d/1FFv6lc1I6pfY-hGwjFZF3y2mFmMbObzW/view
-	multicloud federation - azure and oci single sign-on authenticatios(single sign-on authentication)
-https://medium.com/@prafulpatel16/project-title-azure-project-2-a7af5a730bfc
-	aws - highly available web portfolio application deployment, monitoring & notification with aws chatbot – slack & amazon chime integration
-https://drive.google.com/file/d/1RzwsjKQ4QFtfsbVPKvgEeI3qBY19f73t/view
-	aws - ebs root volume disaster recovery, monitoring & notification
-https://medium.com/@prafulpatel16/%C3%B8-aws-challenge-project-74d11f5b1ddd
-	aws – iam on-premises users migration to aws
-https://drive.google.com/file/d/1WCyHfu67pPabsZxZs33askrTkvW91TNt/view
-aws - iam users & groups creation & destroy using ansible 100% automation
-	https://medium.com/@prafulpatel16/aws-ansible-automation-project-challenge-aws-iam-users-group-creation-destroy-using-ansible-46da85963a3
-	aws - deployment of scalable application
-https://drive.google.com/file/d/1BRpy3KUuCyPMXY7FsCAugcf1Po7NcGX9/view
-	aws - on-premises to aws migration
-https://drive.google.com/file/d/1tCAYTFOsJ3TrpV-Qoq1daY5JjfWZqAMz/view
-	azure - home office solution during covid-19 pandemic with microsoft azure vpn gateway https://drive.google.com/file/d/1syr1Qbj_ZqarLqg3dLIC2fH3ofB5HFYc/view
-	azure firewall – deploy and configure azure firewall based on application rules (fqdn)
-https://drive.google.com/file/d/1aJtcpNHk7o8NmyHcG-eJAUqibEVXEiyn/view?usp=sharing
-	gcp - deployment of a private communication in a multicloud environment(aws & gcp)100% automated using terraform https://drive.google.com/file/d/1pCFQqHT21UfTiWEcz5VK6pxsFhgdduC6/view
-	gcp - app modernization - migrate legacy app to gcp gke
-https://drive.google.com/file/d/1DG-gtgKE1BvdJbtPzOk8DDkSLWT2DFcb/view
-	gcp - intercontinental web app (vm migration) using storage snapshot
-https://drive.google.com/file/d/1CKlnVEEZmH9utsu2TvB3t_lMD-VpTJF2/view
-	k8s project - 1 containerized and deploy a professional portfolio web application to gke using ha-cloud sql
-https://drive.google.com/file/d/1wFRktfqYFru5dgbUaRLV1tOVqPVXQN2n/view
-	gcp - serverless web application load balancing speed up using cloud cdn
-https://drive.google.com/file/d/1ViiF95otUz217C19M4-161_pt5Hlm15N/view
-	gcp challenge - virtual machines patching through automation
-https://drive.google.com/file/d/1P7nQyVGB4SVY55QJ1RdipOiNOZ4jmwGL/view
-	gcp- highly available web app deployment using load balancer
-https://drive.google.com/file/d/1n4qZD-9K6PwZWLgUYT69Wmsg736w790U/view
-	gcp- migration of a stand-alone application and database from gce (vm) to a ‘modern architecture’ using gke (app)+ cloud sql (db)with ha https://drive.google.com/file/d/1qgw2kz-6wxpzxt9ubcjt4ell7kc_v5mt/view
-	oci - automation iam user creation using ansible
-https://drive.google.com/file/d/1Wa38GfQH_vijOzN_7o7K55f-ttJwVwD7/view?usp=share_link
-	oci – deployment of highly available web application using load balancer 
-https://drive.google.com/file/d/1DxWXgiZhm1VYSlhL8jPIMv2sGHIl9ypD/view?usp=share_link
-	oci – deployment of vcn with subnet access control  
-https://drive.google.com/file/d/1nPIpLgIX1tUI7hHpnaIhhw7SLpFxafza/view?usp=share_link
-	oci – deployment of compute resources and load balancer using IAC + pipeline  
-https://drive.google.com/file/d/1wnGEm378plG8Oxe21EeLXjJP_Vp0TVEU/view?usp=share_link
-https://drive.google.com/file/d/1U7M-d9-Cv3RXrkWmLvEe5Lk5mb3AlTe1/view?usp=share_link
-	oci – web app deployment inside object storage using python sdk
-https://drive.google.com/file/d/1LZVH4Lf7Zu8Z6KuVIPNlgt3vnogrQvyO/view?usp=share_link
-	oci – db deployment & db sms integration inside cloud
-https://drive.google.com/file/d/1iz0TTmyQcr-yR_ejLHTc0JDT5rFfhUR7/view?usp=share_link
-https://drive.google.com/file/d/1L_mT9ymLmKAbTvtLVFmqEXzlnFftHC65/view?usp=share_link
-	oci – migration & modernization application to serverless container
-https://drive.google.com/file/d/1fAJs4HGbdLtt0jqvl5dYYvPkvtRzDDpi/view?usp=share_link
+-[Azure App – Managed Wiki Deployment Using Azure App Service (Docker-Based) And Azure Postgresql](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)\
+-[Azure Ad Connect Cloud Sync - Azure Ad Connect Cloud Sync Integration With On-Premises Active Directory](https://medium.com/@prafulpatel16/azure-ad-connect-cloud-sync-azure-ad-connect-cloud-sync-integration-with-on-premises-active-d969ab84d398)\
+-[Azure - On-Premises Azure Ad Integration With Microsoft Azure Ad Using Azure Ad Connect
+(Hybrid Indentity Mangement)
+](https://medium.com/@prafulpatel16/azure-project-1-azure-ad-integration-with-microsfot-azure-ad-using-azure-ad-connect-d63ce003a803)\
+-[Azure Devops - Serverless Website Deployment 100% Automation Using Az Devops Repos & Pipelines Ci/Cd In Multiple Environments](https://drive.google.com/file/d/1FFv6lc1I6pfY-hGwjFZF3y2mFmMbObzW/view)\
+-[Multicloud Federation - Azure And Oci Single Sign-On Authenticatios(Single Sign-On Authentication](https://medium.com/@prafulpatel16/project-title-azure-project-2-a7af5a730bfc)
+-[Azure - Home Office Solution During Covid-19 Pandemic With Microsoft Azure Vpn Gateway ](https://drive.google.com/file/d/1syr1Qbj_ZqarLqg3dLIC2fH3ofB5HFYc/view)\
+-[Azure Firewall – Deploy And Configure Azure Firewall Based On Application Rules (Fqdn)](https://drive.google.com/file/d/1aJtcpNHk7o8NmyHcG-eJAUqibEVXEiyn/view?usp=sharing)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" />
 
 
+-[Aws-Highly Available Web Portfolio Application Deployment, Monitoring & Notification With Aws Chatbot – Slack & Amazon Chime Integration](https://drive.google.com/file/d/1RzwsjKQ4QFtfsbVPKvgEeI3qBY19f73t/view)\
+-[Aws-Ebs Root Volume Disaster Recovery, Monitoring & Notification](https://medium.com/@prafulpatel16/%C3%B8-aws-challenge-project-74d11f5b1ddd)\
+-[Aws–Iam On-Premises Users Migration To Aws](https://drive.google.com/file/d/1WCyHfu67pPabsZxZs33askrTkvW91TNt/view)\
+-[Aws-Iam Users & Groups Creation & Destroy Using Ansible 100% Automation](https://medium.com/@prafulpatel16/aws-ansible-automation-project-challenge-aws-iam-users-group-creation-destroy-using-ansible-46da85963a3)\
+-[Aws-Deployment Of Scalable Application](https://drive.google.com/file/d/1BRpy3KUuCyPMXY7FsCAugcf1Po7NcGX9/view)\
+-[Aws-On-Premises To Aws Migration](https://drive.google.com/file/d/1tCAYTFOsJ3TrpV-Qoq1daY5JjfWZqAMz/view)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45" />
+
+-[Gcp - Deployment Of A Private Communication In A Multicloud Environment(Aws & Gcp)100% Automated Using Terraform ](https://drive.google.com/file/d/1pCFQqHT21UfTiWEcz5VK6pxsFhgdduC6/view)\
+-[Gcp - App Modernization - Migrate Legacy App To Gcp Gke](https://drive.google.com/file/d/1DG-gtgKE1BvdJbtPzOk8DDkSLWT2DFcb/view)\
+-[Gcp - Intercontinental Web App (Vm Migration) Using Storage Snapshot](https://drive.google.com/file/d/1CKlnVEEZmH9utsu2TvB3t_lMD-VpTJF2/view)\
+-[K8s Project - 1 Containerized And Deploy A Professional Portfolio Web Application To Gke Using Ha-Cloud Sql](https://drive.google.com/file/d/1wFRktfqYFru5dgbUaRLV1tOVqPVXQN2n/view)\
+-[Gcp - Serverless Web Application Load Balancing Speed Up Using Cloud Cdn](https://drive.google.com/file/d/1ViiF95otUz217C19M4-161_pt5Hlm15N/view)\
+-[Gcp Challenge - Virtual Machines Patching Through Automation](https://drive.google.com/file/d/1P7nQyVGB4SVY55QJ1RdipOiNOZ4jmwGL/view)\
+-[Gcp- Highly Available Web App Deployment Using Load Balancer](https://drive.google.com/file/d/1n4qZD-9K6PwZWLgUYT69Wmsg736w790U/view)\
+-[Gcp- Migration Of A Stand-Alone Application And Database From Gce (Vm) To A ‘Modern Architecture’ Using Gke (App)+ Cloud Sql (Db)With HA](https://drive.google.com/file/d/1qgw2kz-6wxpzxt9ubcjt4ell7kc_v5mt/view)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" />
+
+-[Oci - Automation Iam User Creation Using Ansible](https://drive.google.com/file/d/1Wa38GfQH_vijOzN_7o7K55f-ttJwVwD7/view?usp=share_link)\
+-[Oci – Deployment Of Highly Available Web Application Using Load Balancer ](https://drive.google.com/file/d/1DxWXgiZhm1VYSlhL8jPIMv2sGHIl9ypD/view?usp=share_link)\
+-[Oci – Deployment Of Vcn With Subnet Access Control  ](https://drive.google.com/file/d/1nPIpLgIX1tUI7hHpnaIhhw7SLpFxafza/view?usp=share_link)\
+-[Oci – Deployment Of Compute Resources And Load Balancer Using IAC + Pipeline -1  ](https://drive.google.com/file/d/1wnGEm378plG8Oxe21EeLXjJP_Vp0TVEU/view?usp=share_link)\
+-[Oci – Deployment Of Compute Resources And Load Balancer Using IAC + Pipeline -2  ](https://drive.google.com/file/d/1U7M-d9-Cv3RXrkWmLvEe5Lk5mb3AlTe1/view?usp=share_link)\
+-[Oci – Web App Deployment Inside Object Storage Using Python Sdk](https://drive.google.com/file/d/1LZVH4Lf7Zu8Z6KuVIPNlgt3vnogrQvyO/view?usp=share_link)\
+-[Oci – Db Deployment & Db Sms Integration Inside Cloud-1](https://drive.google.com/file/d/1iz0TTmyQcr-yR_ejLHTc0JDT5rFfhUR7/view?usp=share_link)\
+-[Oci – Db Deployment & Db Sms Integration Inside Cloud-2](https://drive.google.com/file/d/1iz0TTmyQcr-yR_ejLHTc0JDT5rFfhUR7/view?usp=share_link)\
+-[Oci – Migration & Modernization Application To Serverless Container](https://drive.google.com/file/d/1fAJs4HGbdLtt0jqvl5dYYvPkvtRzDDpi/view?usp=share_link)\
