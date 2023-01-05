@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 
  About Me:
-🏦 I'm a CloudEnginee
+🏦 I'm a Cloud Engineer
 
 - 📫 How to reach me ...
 (https://linkedin.com/in/prafulpatel16)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ln" width="45" height="45" />
