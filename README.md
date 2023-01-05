@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
 
--[Azure App – Managed Wiki Deployment Using Azure App Service (Docker-Based) And Azure Postgresql]([https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c](https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca80e)\
+-[Azure App – Managed Wiki Deployment Using Azure App Service (Docker-Based) And Azure Postgresql](https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca80e)\
 -[Azure Ad Connect Cloud Sync - Azure Ad Connect Cloud Sync Integration With On-Premises Active Directory](https://medium.com/@prafulpatel16/azure-ad-connect-cloud-sync-azure-ad-connect-cloud-sync-integration-with-on-premises-active-d969ab84d398)\
 -[Azure - On-Premises Azure Ad Integration With Microsoft Azure Ad Using Azure Ad Connect
 (Hybrid Indentity Mangement)
