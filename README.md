@@ -2,12 +2,23 @@
 - 👀 I’m interested in Cloud & DevOps emerging technologies.
 - 🌱 I’m currently learning and working into Technologies like Linux, Python Scripting, AWS, Azure, GCP, OCI Cloud, DevOps tools, Containers etc..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
  About Me:
-🏦 I'm a CloudEngineer
+🏦 I'm a CloudEnginee
 
-                                                      
+- 📫 How to reach me ...
+(https://linkedin.com/in/prafulpatel16)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ln" width="45" height="45" />
+
+[![github]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="ln" width="45" height="45"/>)][1]
+
+<h2> 🚀 &nbsp; How to reach me</h2>
+
+[Linkedin](https://linkedin.com/in/prafulpatel16/)
+[GitHUB](https://github.com/prafulpatel16)
+[Medium](https://medium.com/@prafulpatel16)
+[Youtube](https://youtube.com/@prafulpatel16)
+
+                                                     
   
 <!---
 prafulpatel16/prafulpatel16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
