@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praful Patel
-- 👀 I’m interested in Cloud & DevOps emerging technologies.
-- 🌱 I’m currently learning and working into Technologies like Linux, Python Scripting, AWS, Azure, GCP, OCI Cloud, DevOps tools, Containers etc..
+- 👀 I’m mainly interested into Cloud automation & DevOps tools stack.
+- 🌱 I’m currently working into Technologies like Public cloud AWS,Azure,GCP,OCI, Linux, Terraform, Ansible, Docker, Kubernetes, Python Scripting and DevOps tools etc..
 - 💞️ I’m looking to collaborate on ...
 
  About Me:
@@ -9,7 +9,14 @@
 - 📫 How to reach me ...
 (https://linkedin.com/in/prafulpatel16)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ln" width="45" height="45" />
 
-[![github]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="ln" width="45" height="45"/>)][1]
+### 🤝 Connect with me:
+
+<a href="(https://linkedin.com/in/prafulpatel16/"><img align="left" src="https://raw.githubusercontent.com/prafulpatel16/prafulpatel16/main/images/linkedin.svg" alt="prafulpatel16 | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 <h2> 🚀 &nbsp; How to reach me</h2>
 
@@ -71,6 +78,14 @@ You can click the Preview link to take a look at your changes.
  
 
  
+## 💼 Technical Skills
+
+![Terraform](https://img.shields.io/badge/Terraform-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ansible](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Packer](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Github](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
  
 
@@ -86,6 +101,9 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafulpatel16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  📝My Cloud Projects Portfolio
+ 
+ 	azure app – managed wiki deployment using azure app service (docker-based) and azure postgresql \
+  Click here to visit project link [Click here for Project](https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca)
 
 	azure app – managed wiki deployment using azure app service (docker-based) and azure postgresql
 https://medium.com/@prafulpatel16/azure-app-managed-wiki-deployment-using-azure-app-service-docker-based-and-azure-postgresql-5720355ca
