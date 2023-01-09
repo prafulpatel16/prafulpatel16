@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" /> AWS HANDS-ON PROJECTS
 
 Project 1. [AWS-Highly Available Web Portfolio Application Deployment, Monitoring & Notification With Aws Chatbot – Slack & Amazon Chime Integration](https://drive.google.com/file/d/1RzwsjKQ4QFtfsbVPKvgEeI3qBY19f73t/view)\
-Project 2. [AWS - Web application deployment on AWS S3 using Terraform](https://drive.google.com/file/d/1uJSJRIWMwwCwsIiwMqYXjZLxfpnj98w6/view?usp=share_link)\
+Project 2. [AWS - Automated Web application deployment on AWS S3 using Terraform](https://drive.google.com/file/d/1uJSJRIWMwwCwsIiwMqYXjZLxfpnj98w6/view?usp=share_link)\
 Project 3. [AWS - Ebs Root Volume Disaster Recovery, Monitoring & Notification](https://medium.com/@prafulpatel16/%C3%B8-aws-challenge-project-74d11f5b1ddd)\
 Project 4. [AWS - Iam On-Premises Users Migration To Aws](https://drive.google.com/file/d/1WCyHfu67pPabsZxZs33askrTkvW91TNt/view)\
 Project 5. [AWS-Iam Users & Groups Creation & Destroy Using Ansible 100% Automation](https://medium.com/@prafulpatel16/aws-ansible-automation-project-challenge-aws-iam-users-group-creation-destroy-using-ansible-46da85963a3)\
