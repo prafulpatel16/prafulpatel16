@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praful Patel
 - 👀 I’m mainly interested into Cloud automation & DevOps tools stack.
 - 🌱 I’m currently working into Technologies like Public cloud AWS,Azure,GCP,OCI, Linux, Terraform, Ansible, Docker, Kubernetes, Python Scripting and DevOps tools etc..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cloud/DevOps tools technology to enhance take the opportunity to next level.
 
 About Me:
 ##  I'm a Cloud Engineer 
@@ -58,6 +58,7 @@ You can click the Preview link to take a look at your changes.
 
  
  ## 📝 Hands-On Projects: Praful's Cloud Project Portfolio
+ [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" /> AWS HANDS-ON PROJECTS
 
