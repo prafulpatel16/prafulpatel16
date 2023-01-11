@@ -69,7 +69,10 @@ Project 5. [AWS-Iam Users & Groups Creation & Destroy Using Ansible 100% Automat
 Project 6. [AWS - Deployment Of Scalable Application](https://drive.google.com/file/d/1BRpy3KUuCyPMXY7FsCAugcf1Po7NcGX9/view)\
 Project 7. [AWS - On-Premises To Aws Migration](https://drive.google.com/file/d/1tCAYTFOsJ3TrpV-Qoq1daY5JjfWZqAMz/view)\
 Project 8. [AWS - Static web app deployment using cloudfront,Route53,ACM](https://drive.google.com/file/d/1AwO6VflQ8urkeWFqV4hAhwaIapHhouwN/view?usp=share_link)\
-Project 9. [AWS - Federated Access to AWS Single Sign-on with Cyberark Workforce Identiry ](https://drive.google.com/file/d/1AwO6VflQ8urkeWFqV4hAhwaIapHhouwN/view?usp=share_link)
+Project 9. [AWS - Federated Access to AWS Single Sign-on with Cyberark Workforce Identiry ](https://drive.google.com/file/d/1AwO6VflQ8urkeWFqV4hAhwaIapHhouwN/view?usp=share_link)/
+Project 10. [AWS- Deployed Highly Available VPN Connections between Google Cloud and AWS](https://drive.google.com/file/d/1YqwF8KKwDE6xqan1xV5gcoYadGSnHKI-/view)/
+Project 11. [AWS-Implement Two tier architecture using AWS VPC peering and deploy portfolio web application and connect to RDS(MySQL) database server](https://www.facebook.com/BuildCompetentArchitects/videos/558778972012080/)/
+
  
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/> AZURE HANDS-ON PROJECTS
