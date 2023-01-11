@@ -58,8 +58,8 @@ You can click the Preview link to take a look at your changes.
 
  
  ## 📝 Hands-On Projects: Praful's Cloud Project Portfolio
- [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/@prafulpatel16))
- 
+
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" /> AWS HANDS-ON PROJECTS
 
 Project 1. [AWS-Highly Available Web Portfolio Application Deployment, Monitoring & Notification With Aws Chatbot – Slack & Amazon Chime Integration](https://drive.google.com/file/d/1RzwsjKQ4QFtfsbVPKvgEeI3qBY19f73t/view)\
