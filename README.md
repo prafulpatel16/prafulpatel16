@@ -1,4 +1,5 @@
-# 👋 Hi, I’m **@Praful Patel**
+# 👋 Hi, I’m **@Praful Patel** <a href="https://www.praful.cloud" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="30" style="margin-left:10px;"/></a>
+
 
 I'm passionate about **Cloud Automation** and **DevOps tools stack**. My primary focus is on implementing and managing cloud solutions across **AWS**, **Azure**, **GCP**, and **OCI**, along with expertise in **Linux**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Python Scripting**.
 
