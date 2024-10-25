@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **@Praful Patel** <a href="https://www.praful.cloud" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="30" style="margin-left:10px;"/></a>
 
 
-I'm passionate about **Cloud Automation** and **DevOps tools stack**. My primary focus is on implementing and managing cloud solutions across **AWS**, **Azure**, **GCP**, and **OCI**, along with expertise in **Linux**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Python Scripting**.
+I'm passionate about **Cloud Engineering/Solutions/Automation** and **DevOps tools stack**. My primary focus is on implementing and managing cloud solutions across **AWS**, **Azure**, **GCP**, and **OCI**, along with expertise in **Linux**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Python Scripting**.
 
 ## 🌟 About Me:
 With **16 years of experience in Software Testing, Quality Assurance**, and **five years of hands-on Cloud and DevOps upskilling**, I bring a unique blend of skills and expertise to the table. I am confident in my ability to contribute meaningfully to your team, and I'm always looking to collaborate on cutting-edge cloud and DevOps projects to take the opportunity to the next level.
