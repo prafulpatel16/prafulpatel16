@@ -1,42 +1,49 @@
-- 👋 Hi, I’m @Praful Patel
-- 👀 I’m mainly interested into Cloud automation & DevOps tools stack.
-- 🌱 I’m currently working into Technologies like Public cloud AWS,Azure,GCP,OCI, Linux, Terraform, Ansible, Docker, Kubernetes, Python Scripting and DevOps tools etc..
-- 💞️ I’m looking to collaborate on Cloud/DevOps tools technology to enhance take the opportunity to next level.
+# 👋 Hi, I’m **@Praful Patel**
 
-About Me:
-##  I'm a Cloud Engineer 
+I'm passionate about **Cloud Automation** and **DevOps tools stack**. My primary focus is on implementing and managing cloud solutions across **AWS**, **Azure**, **GCP**, and **OCI**, along with expertise in **Linux**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Python Scripting**.
+
+## 🌟 About Me:
+With **16 years of experience in Software Testing, Quality Assurance**, and **five years of hands-on Cloud and DevOps upskilling**, I bring a unique blend of skills and expertise to the table. I am confident in my ability to contribute meaningfully to your team, and I'm always looking to collaborate on cutting-edge cloud and DevOps projects to take the opportunity to the next level.
+
+I am honored as an **AWS Community Builder for the year 2024-25**. 
+
 ![AWS Community Builder](https://github.com/prafulpatel16/prafulpatel16/blob/main/Community%20Builder%20LinkedIn%201400px%20ALT.png)
 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/prafulpatel16/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="praful |LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@prafulpatel16/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-<a href="https://youtube.com/@prafulpatel16/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+## 🏆 Certifications
+- **Hashicorp Certified - Terraform Associate**
+- **AWS Certified Solutions Architect - Associate**
+- **Microsoft Azure Administrator – Associate**
+- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional** 
+- **CKA - Certified Kubernetes Administrator**
+- **Aviatrix Certified Engineer - Multi-Cloud Network Associate**
+- **Gremlin Certified Chaos Engineering Practitioner - GCCEP**
 
-<a href="https://youtube.com/@prafulpatel16/"><img align="left" src="http://www.w3.org/2000/svg"  width="21px"/></a>
-
-
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.praful.cloud" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://linkedin.com/in/prafulpatel16" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;">
+  </a>
+  <a href="https://github.com/prafulpatel16/prafulpatel16" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://www.youtube.com/@prafulpatel16" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://medium.com/@prafulpatel16" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" width="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://dev.to/prafulpatel16" target="_blank">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev" width="30" style="margin-right:10px;"/>
+  </a>
+</p>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-                                                    
-  
-<!---
-prafulpatel16/prafulpatel16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-  
-
-## 🚀Experienced in MultiCloud
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp"width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" />
-
-
-## 💼 Technical Skills
+  ## 💼 Technical Skills
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -49,8 +56,53 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                 
+  
+<!---
+prafulpatel16/prafulpatel16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<h2> 🚀 &nbsp;Tools & Technologies I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"alt="ansible" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"alt="vagrant" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original-wordmark.svg" alt="packer" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="bash" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="bash" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" alt="nginx" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="promehtheus" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"  alt="mysql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" width="45" height="45" />
+
+
+  
+
+## 🚀Experienced in MultiCloud
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp"width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" />
+
+
+
   
 </p>
 
@@ -64,7 +116,7 @@ You can click the Preview link to take a look at your changes.
  ## 📝 Hands-On Projects: Praful's Cloud Project Portfolio
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45" /> AWS HANDS-ON PROJECTS
+ <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="45" height="45"/> AWS HANDS-ON PROJECTS
 
 Project 1. [AWS-Highly Available Web Portfolio Application Deployment, Monitoring & Notification With Aws Chatbot – Slack & Amazon Chime Integration](https://drive.google.com/file/d/1RzwsjKQ4QFtfsbVPKvgEeI3qBY19f73t/view)\
 Project 2. [AWS - Automated Web application deployment on AWS S3 using Terraform](https://drive.google.com/file/d/1uJSJRIWMwwCwsIiwMqYXjZLxfpnj98w6/view?usp=share_link)\
@@ -118,32 +170,4 @@ Project 7. [OCI – Db Deployment & Db Sms Integration Inside Cloud-1](https://d
 Project 8. [OCI – Db Deployment & Db Sms Integration Inside Cloud-2](https://drive.google.com/file/d/1iz0TTmyQcr-yR_ejLHTc0JDT5rFfhUR7/view?usp=share_link)\
 Project 9. [OCI – Migration & Modernization Application To Serverless Container](https://drive.google.com/file/d/1fAJs4HGbdLtt0jqvl5dYYvPkvtRzDDpi/view?usp=share_link)\
 
-
-<h2> 🚀 &nbsp;Tools & Technologies I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"alt="ansible" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"alt="vagrant" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original-wordmark.svg" alt="packer" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="bash" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="bash" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" alt="nginx" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="promehtheus" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"  alt="mysql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"  alt="ubuntu" width="45" height="45" />
 
