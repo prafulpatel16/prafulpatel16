@@ -5,7 +5,8 @@ I'm passionate about **Cloud Engineering/Solutions/Automation** and **DevOps too
 
 ## 🌟 About Me:
 
- ![PrafulsFace](https://github.com/prafulpatel16/prafulpatel16/blob/main/PrafulFace1.png)
+<img src="https://github.com/prafulpatel16/prafulpatel16/blob/main/PrafulFace1.png" alt="Praful's Face" width="150" height="150" style="border-radius: 50%;"/>
+
 With **16 years of experience in Software Testing, Quality Assurance**, and **five years of hands-on Cloud and DevOps upskilling**, I bring a unique blend of skills and expertise to the table. I am confident in my ability to contribute meaningfully to your team, and I'm always looking to collaborate on cutting-edge cloud and DevOps projects to take the opportunity to the next level.
 
 I am honored as an **AWS Community Builder for the year 2024-25**. 
