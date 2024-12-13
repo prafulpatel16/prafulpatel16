@@ -1,14 +1,12 @@
 # 👋 Hi, I’m **@Praful Patel** <a href="https://www.praful.cloud" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="30" style="margin-left:10px;"/></a>
-
+<img src="https://github.com/prafulpatel16/prafulpatel16/blob/main/PrafulFace1.png" alt="Praful's Face" width="125" height="125" style="border-radius: 50%;"/>
 
 I'm passionate about **Cloud Engineering/Solutions/Automation** and **DevOps tools stack**. My primary focus is on implementing and managing cloud solutions across **AWS**, **Azure**, **GCP**, and **OCI**, along with expertise in **Linux**, **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **Python Scripting**.
 
 ## 🌟 About Me:
 
-<img src="https://github.com/prafulpatel16/prafulpatel16/blob/main/PrafulFace1.png" alt="Praful's Face" width="150" height="150" style="border-radius: 50%;"/>
-
 With **16 years of experience in Software Testing, Quality Assurance**, and **five years of hands-on Cloud and DevOps upskilling**, I bring a unique blend of skills and expertise to the table. I am confident in my ability to contribute meaningfully to your team, and I'm always looking to collaborate on cutting-edge cloud and DevOps projects to take the opportunity to the next level.
-
+2
 I am honored as an **AWS Community Builder for the year 2024-25**. 
 
 ![AWS Community Builder](https://github.com/prafulpatel16/prafulpatel16/blob/main/Community%20Builder%20LinkedIn%201400px%20ALT.png)
